@@ -1,0 +1,18 @@
+.form{
+    border: 2px solid rgb(151, 151, 151);
+    height: 70px;
+    width: 80%;
+    margin: auto ;
+}
+
+.input-handler {
+    display: flex;
+    justify-content: space-between;
+    margin: auto ;
+    margin-top: 10px;
+}
+
+button {
+    margin-left: 50%;
+    margin-top: 10px;
+}
